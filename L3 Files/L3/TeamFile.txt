@@ -1,0 +1,7 @@
+Jane Doe C 19.19 15.15 4.4
+Jill Spratt F 11.11 7.7 3.3
+Emily Hall G 13.13 4.4 6.6
+Daisy Duck G 8.8 2.2 1.1
+Minnie Mouse C 5.5 1.1 2.2
+Petunia Pig G 9.9 3.3 6.6
+Mother Goose F 8.0 4.0 2.0
